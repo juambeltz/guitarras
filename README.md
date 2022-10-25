@@ -5,9 +5,7 @@ Tienda de venta de instrumentos ficticia
 
 ## 🧠 Tecnologias usadas
 - html5
-- scss
-- javascript ES6
-- gulp
+- css
 
 ## 🌐 Ver sitio en vivo
 https://juambeltz.github.io/cocina/
